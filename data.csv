@@ -1,4 +1,12 @@
-car name,miles/gallon,cylinders,displacement,horsepower,weight,acceleration,model year,origin
-"chevrolet chevelle malibu",18,8,307,130,3504,12,70,1
-"buick skylark 320",15,8,350,165,3693,11.5,70,1
-"plymouth satellite",18,8,318,150,3436,11,70,1
+﻿Table,Player 1,vs.,Player 2,Player 1,vs.,Player 2 
+1,"Advincula, Marc (0310078017)",vs.,"Beneyekkou, Alexandre (0311332936)","A., Marc (0310078017)",vs.,"B., Alexandre (0311332936)" 
+2,"Aellig, Alvin Willi (0309961199)",vs.,"Achtmüller, Niklas (0310077277)","A., Alvin Willi (0309961199)",vs.,"A., Niklas (0310077277)" 
+3,"Betschart, Daniel (0304196469)",vs.,"Asser, Noah (0310158485)","B., Daniel (0304196469)",vs.,"A., Noah (0310158485)" 
+4,"Bachmann, Erwin (0304057771)",vs.,"Baltisberger, Mathis (0304198035)","B., Erwin (0304057771)",vs.,"B., Mathis (0304198035)" 
+5,"Baur, René (0300825599)",vs.,"Abbate, Alessandro (0301386028)","B., René (0300825599)",vs.,"A., Alessandro (0301386028)" 
+6,"Anthony, Pascale (0301367671)",vs.,"Beboux, Samuel (0304054952)","A., Pascale (0301367671)",vs.,"B., Samuel (0304054952)" 
+7,"Affentranger, Reto (0304052775)",vs.,"Amstad, Vladimir (0304689291)","A., Reto (0304052775)",vs.,"A., Vladimir (0304689291)" 
+8,"Bernlochner, Andreas (0300032344)",vs.,"Ahr, Marco (0300036331)","B., Andreas (0300032344)",vs.,"A., Marco (0300036331)" 
+9,"Berset, Quentin (0304198084)",vs.,"Advincula, Marc (0310078152)","B., Quentin (0304198084)",vs.,"A., Marc (0310078152)" 
+10,"Bastian, Christof (0304198267)",vs.,"*** BYE ***","B., Christof (0304198267)",vs.,"*** BYE ***" 
+
